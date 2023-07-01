@@ -3,7 +3,7 @@ Hello, I am a student at Lambung Mangkurat University and currently studying Com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanfansyuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ihsan-fansyuri-4047541b3/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ihsanfansyuri) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanfansyuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ihsan-fansyuri-4047541b3/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ihsanfansyuri) 
 [![Gmail Badge](https://img.shields.io/badge/-ihsanfansyuri2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihsanfansyuri2@gmail.com)](mailto:ihsanfansyuri2@gmail.com)
 
 <!-- # 💻 Tech Stack:
