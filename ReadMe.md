@@ -1,6 +1,14 @@
-# 💫 About Me:
-Hello, I am a student at Lambung Mangkurat University and currently studying Computer Science degree
+### 💫 About Me:
+I'm a passionate **Web Developer** with experience in building dynamic websites and applications using modern technologies.
 
+- 🚀 Passionate about delivering clean, efficient code and seamless user experiences.  
+- 🔧 **Tech stack** includes **React.js**, **Next.js**, **Laravel**, **JavaScript**, **TypeScript**, **PHP**, **MySQL**, and other technologies.  
+- 🎨 Crafting modern frontends with **Tailwind CSS**, **Shadcn UI**, and other libraries and frameworks for interactive user interfaces.  
+- 🌱 Exploring **ISO 25010** for usability and quality assurance in web development.  
+- 📚 Currently deepening my knowledge of **Next.js** and **TypeScript** to build more robust and scalable applications.
+
+💡 I love exploring new technologies and building applications that solve real-world problems.
+📬 Feel free to reach out for collaborations, advice, or just a friendly chat! 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihsanfansyuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanfansyuri) [![Gmail Badge](https://img.shields.io/badge/-ihsanfansyuri2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihsanfansyuri2@gmail.com)](mailto:ihsanfansyuri2@gmail.com)
